@@ -6,11 +6,11 @@
 label,input,textarea,select {
   font-size:1em;
 }
-
 #forms {
   width:49%;
   padding:10px;
   float:left;
+  background-color: #A3D4D2;
 }
 #forms #forkme_container {
   width:100%;
