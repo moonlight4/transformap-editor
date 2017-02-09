@@ -2,15 +2,16 @@
   margin:0;
   padding:0;
   font-family: Open sans;
+  color: #1F3050;
 }
 label,input,textarea,select {
   font-size:1em;
 }
 #forms {
-  width:49%;
+  width:30%;
   padding:10px;
   float:left;
-  background-color: #A3D4D2;
+  background-color: #1F3050;
 }
 #forms #forkme_container {
   width:100%;
@@ -37,6 +38,7 @@ label,input,textarea,select {
 #forms fieldset {
   padding:10px;
   margin-bottom:10px;
+  background: #ffffff;
 }
 #forms .row label,
 #forms .row > p:first-child,
