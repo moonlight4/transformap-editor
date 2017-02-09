@@ -91,17 +91,16 @@ label,input,textarea,select {
   display:inline-block;
   width:5em;
   height:1.7em;
-  margin-left:2em;
+  margin-left:1em;
   border:1px solid black;
   line-height:1.7em;
   text-align:center;
-  margin-right:2em;
+  margin-right:1em;
   background:#eee;
   border-radius:2px;
 }
 
-#newbutton,
-#resetbutton {
+#newbutton {
    border: 1px solid #1f3050;
    background: #ffc30e;
    background: -webkit-gradient(linear, left top, left bottom, from(#ffdd00), to(#ffc30e));
@@ -119,13 +118,12 @@ label,input,textarea,select {
    box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    text-shadow: #7ea4bd 0 1px 0;
    color: #1f3050;
-   font-size: 18px;
+   font-size: 1em;
    font-family: helvetica, serif;
    text-decoration: none;
    vertical-align: middle;
    }
-#newbutton:hover,
-#resetbutton:hover {
+#newbutton:hover {
    border: 1px solid #1f3050;
    text-shadow: #1e4158 0 1px 0;
    background: #ffc30e;
