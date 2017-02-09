@@ -68,6 +68,7 @@ label,input,textarea,select {
 
 .row {
   margin-left: 5px;
+  margin-bottom: 2px;
 }
 
 #forms .row#deleted {
