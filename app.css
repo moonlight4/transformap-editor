@@ -99,7 +99,10 @@ label,input,textarea,select {
   border-radius:2px;
 }
 
-#newbutton {
+#newbutton,
+#coordsearch,
+#save,
+#plus {
    border: 1px solid #1f3050;
    background: #ffc30e;
    background: -webkit-gradient(linear, left top, left bottom, from(#ffdd00), to(#ffc30e));
@@ -122,7 +125,10 @@ label,input,textarea,select {
    text-decoration: none;
    vertical-align: middle;
    }
-#newbutton:hover {
+#newbutton:hover,
+#coordsearch:hover,
+#save:hover,
+#plus:hover {
    border: 1px solid #1f3050;
    text-shadow: #1e4158 0 1px 0;
    background: #ffc30e;
@@ -134,7 +140,10 @@ label,input,textarea,select {
    background-image: -ms-linear-gradient(top, #ffea8b 0%, #ffc30e 100%);
    color: #1f3050;
    }
-#newbutton:active {
+#newbutton:active,
+#coordsearch:active,
+#save:active,
+#plus:active {
    text-shadow: #1e4158 0 1px 0;
    border: 1px solid #1f3050;
    background: #70aba8;
