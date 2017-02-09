@@ -90,8 +90,6 @@ label,input,textarea,select {
 #newbutton,
 #resetbutton {
   display:inline-block;
-  width:5em;
-  height:1.7em;
   margin-left:1em;
   border:1px solid black;
   line-height:1.7em;
