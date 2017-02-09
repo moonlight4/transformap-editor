@@ -194,5 +194,9 @@ label,input,textarea,select {
   border:1px solid black;
  }
 
+#_key_type_of_initiative {
+  padding-left: 3px;
+}
+
 
 /*# sourceMappingURL=app.css.map*/
