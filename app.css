@@ -108,16 +108,16 @@ label,input,textarea,select {
    background: -ms-linear-gradient(top, #ffdd00, #ffc30e);
    background: -o-linear-gradient(top, #ffdd00, #ffc30e);
    background-image: -ms-linear-gradient(top, #ffdd00 0%, #ffc30e 100%);
-   padding: 10px 20px;
-   -webkit-border-radius: 14px;
-   -moz-border-radius: 14px;
-   border-radius: 14px;
+   padding: 5px 10px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
    -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    text-shadow: #7ea4bd 0 1px 0;
    color: #1f3050;
-   font-size: 1em;
+   font-size: 15px;
    font-family: helvetica, serif;
    text-decoration: none;
    vertical-align: middle;
@@ -134,8 +134,7 @@ label,input,textarea,select {
    background-image: -ms-linear-gradient(top, #ffea8b 0%, #ffc30e 100%);
    color: #1f3050;
    }
-#newbutton:active,
-#resetbutton:active {
+#newbutton:active {
    text-shadow: #1e4158 0 1px 0;
    border: 1px solid #1f3050;
    background: #70aba8;
