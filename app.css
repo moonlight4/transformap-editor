@@ -90,13 +90,15 @@ label,input,textarea,select {
 #newbutton,
 #resetbutton {
   display:inline-block;
-  margin-left:1em;
   border:1px solid black;
   line-height:1.7em;
   text-align:center;
-  margin-right:1em;
   background:#eee;
   border-radius:2px;
+  width:5em;
+  height:2em;
+  margin-left:2em;
+  margin-right:2em;
 }
 
 #newbutton,
