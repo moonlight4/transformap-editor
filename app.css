@@ -4,6 +4,11 @@
   font-family: Open sans;
   color: #1F3050;
 }
+
+h1 {
+  color: #fff;
+}
+
 label,input,textarea,select {
   font-size:1em;
 }
@@ -39,6 +44,7 @@ label,input,textarea,select {
   padding:10px;
   margin-bottom:10px;
   background: #ffffff;
+  margin-left: 5px;
 }
 #forms .row label,
 #forms .row > p:first-child,
@@ -124,7 +130,7 @@ label,input,textarea,select {
 }
 
 #map {
-  width: 49%;
+  width: 69%;
   height: 90vh;
   border:1px solid black
 }
