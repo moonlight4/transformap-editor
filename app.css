@@ -195,5 +195,6 @@ label,input,textarea,select {
   width: 69%;
   height: 100vh;
   border:1px solid black;
+  position: fixed;
  }
 /*# sourceMappingURL=app.css.map*/
