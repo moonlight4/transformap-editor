@@ -1,6 +1,7 @@
 * {
   margin:0;
   padding:0;
+  padding-left: 3px;
   font-family: Open sans;
   color: #1F3050;
 }
@@ -193,10 +194,4 @@ label,input,textarea,select {
   height: 100vh;
   border:1px solid black;
  }
-
-#_key_type_of_initiative {
-  padding-left: 3px;
-}
-
-
 /*# sourceMappingURL=app.css.map*/
