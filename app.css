@@ -57,6 +57,10 @@ label,input,textarea,select {
   content:":";
 }
 
+.row {
+  margin-left: 5px;
+}
+
 #forms .row#deleted {
   color:red;
   text-align:center;
