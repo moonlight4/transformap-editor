@@ -243,5 +243,6 @@ label,input,textarea,select {
   width: 49%;
   height: 100vh;
   border:1px solid black;
+  background-color: #1F3050;
  }
 /*# sourceMappingURL=app.css.map*/
