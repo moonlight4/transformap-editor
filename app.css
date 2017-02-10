@@ -16,7 +16,7 @@ label,input,textarea,select {
   font-size:1em;
 }
 #forms {
-  width:39%;
+  width:49%;
   padding:10px;
   float:left;
   background-color: #1F3050;
@@ -241,7 +241,7 @@ label,input,textarea,select {
 }
 
 #map {
-  width: 59%;
+  width: 49%;
   height: 100vh;
   border:1px solid black;
  }
