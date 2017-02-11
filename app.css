@@ -92,6 +92,12 @@ label,input,textarea,select {
 }
 
 #newbutton,
+#resetbutton,
+#help {
+  line-height:1.7em;
+}
+
+#newbutton,
 #coordsearch,
 #save,
 #plus {
