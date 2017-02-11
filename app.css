@@ -67,9 +67,10 @@ label,input,textarea,select {
   margin-top: 1.2em;
 }
 
-#menu .row {
+#menu {
   text-align: right;
   margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 fieldset {
