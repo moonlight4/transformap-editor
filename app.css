@@ -126,7 +126,7 @@ legend {
 }
 
 #newbutton {
-   border: 1px solid #1f3050;
+   border: 1px solid #fff;
    background: #ffc30e;
    background: -webkit-gradient(linear, left top, left bottom, from(#ffdd00), to(#ffc30e));
    background: -webkit-linear-gradient(top, #ffdd00, #ffc30e);
@@ -149,7 +149,7 @@ legend {
    vertical-align: middle;
    }
 #newbutton:hover {
-   border: 1px solid #1f3050;
+   border: 1px solid #fff;
    text-shadow: #1e4158 0 1px 0;
    background: #ffc30e;
    background: -webkit-gradient(linear, left top, left bottom, from(#ffea8b), to(#ffc30e));
@@ -162,7 +162,7 @@ legend {
    }
 #newbutton:active {
    text-shadow: #1e4158 0 1px 0;
-   border: 1px solid #1f3050;
+   border: 1px solid #fff;
    background: #70aba8;
    background: -webkit-gradient(linear, left top, left bottom, from(#99ccca), to(#ffc30e));
    background: -webkit-linear-gradient(top, #99ccca, #70aba8);
@@ -175,7 +175,7 @@ legend {
 
 #resetbutton,
 #delete {
-   border: 1px solid #0a3c59;
+   border: 1px solid #fff;
    background: #1f3050;
    background: -webkit-gradient(linear, left top, left bottom, from(#3d5e9c), to(#1f3050));
    background: -webkit-linear-gradient(top, #3d5e9c, #1f3050);
@@ -199,7 +199,7 @@ legend {
    }
 #resetbutton:hover,
 #delete:hover {
-   border: 1px solid #0a3c59;
+   border: 1px solid #fff;
    text-shadow: #1e4158 0 1px 0;
    background: #BD1A00;
    background: -webkit-gradient(linear, left top, left bottom, from(#BD1A00), to(#702014));
@@ -213,7 +213,7 @@ legend {
 #resetbutton:active, 
 #delete:active {
    text-shadow: #1e4158 0 1px 0;
-   border: 1px solid #0a3c59;
+   border: 1px solid #fff;
    background: #495469;
    background: -webkit-gradient(linear, left top, left bottom, from(#702014), to(#BD1A00));
    background: -webkit-linear-gradient(top, #702014, #BD1A00);
@@ -225,7 +225,7 @@ legend {
    }
 
 #help {
-   border: 1px solid #0a3c59;
+   border: 1px solid #fff;
    background: #30422b;
    background: -webkit-gradient(linear, left top, left bottom, from(#84bd78), to(#30422b));
    background: -webkit-linear-gradient(top, #84bd78, #30422b);
@@ -248,7 +248,7 @@ legend {
    vertical-align: middle;
    }
 #help:hover {
-   border: 1px solid #0a3c59;
+   border: 1px solid #fff;
    text-shadow: #1e4158 0 1px 0;
    background: #30422b;
    background: -webkit-gradient(linear, left top, left bottom, from(#aedfa3), to(#30422b));
@@ -261,7 +261,7 @@ legend {
    }
 #help:active {
    text-shadow: #1e4158 0 1px 0;
-   border: 1px solid #0a3c59;
+   border: 1px solid #fff;
    background: #84bd78;
    background: -webkit-gradient(linear, left top, left bottom, from(#30422b), to(#84bd78));
    background: -webkit-linear-gradient(top, #30422b, #84bd78);
@@ -275,7 +275,7 @@ legend {
 #coordsearch,
 #save,
 #plus {
-   border: 1px solid #1f3050;
+   border: 1px solid #fff;
    background: #ffc30e;
    background: -webkit-gradient(linear, left top, left bottom, from(#ffdd00), to(#ffc30e));
    background: -webkit-linear-gradient(top, #ffdd00, #ffc30e);
@@ -300,7 +300,7 @@ legend {
 #coordsearch:hover,
 #save:hover,
 #plus:hover {
-   border: 1px solid #1f3050;
+   border: 1px solid #fff;
    text-shadow: #1e4158 0 1px 0;
    background: #ffc30e;
    background: -webkit-gradient(linear, left top, left bottom, from(#ffea8b), to(#ffc30e));
@@ -315,7 +315,7 @@ legend {
 #save:active,
 #plus:active {
    text-shadow: #1e4158 0 1px 0;
-   border: 1px solid #1f3050;
+   border: 1px solid #fff;
    background: #70aba8;
    background: -webkit-gradient(linear, left top, left bottom, from(#99ccca), to(#ffc30e));
    background: -webkit-linear-gradient(top, #99ccca, #70aba8);
