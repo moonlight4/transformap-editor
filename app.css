@@ -10,6 +10,7 @@ h1 {
   color: #fff;
   margin-bottom: 1em;
   margin-left: 1em;
+  text-align: center;
 }
 
 label,input,textarea,select {
