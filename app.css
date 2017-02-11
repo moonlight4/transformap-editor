@@ -67,6 +67,10 @@ fieldset {
   border-radius: 10px;
 }
 
+legend {
+  margin-top: 1em;
+}
+
 #_id,
 #id {
   margin-top:1em !important;
