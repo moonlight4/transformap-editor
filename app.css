@@ -68,9 +68,9 @@ label,input,textarea,select {
 }
 
 #menu {
-  text-align: right;
+  text-align: center;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 1.2em;
 }
 
 fieldset {
