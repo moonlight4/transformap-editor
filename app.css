@@ -123,8 +123,8 @@ label,input,textarea,select {
    box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
    text-shadow: #7ea4bd 0 1px 0;
    color: #1f3050;
-   font-size: 15px;
-   font-family: helvetica, serif;
+   font-size: 14px;
+   font-family: Open sans;
    text-decoration: none;
    vertical-align: middle;
    }
@@ -179,7 +179,7 @@ label,input,textarea,select {
    text-shadow: #7ea4bd 0 1px 0;
    color: #ffffff;
    font-size: 14px;
-   font-family: helvetica, serif;
+   font-family: Open sans;
    text-decoration: none;
    vertical-align: middle;
    }
@@ -229,7 +229,7 @@ label,input,textarea,select {
    text-shadow: #7ea4bd 0 1px 0;
    color: #ffffff;
    font-size: 14px;
-   font-family: helvetica, serif;
+   font-family: Open sans;
    text-decoration: none;
    vertical-align: middle;
    }
