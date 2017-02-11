@@ -98,6 +98,10 @@ label,input,textarea,select {
   margin-right: 1em;
 }
 
+#help {
+  text-align: right;
+}
+
 #newbutton {
    border: 1px solid #1f3050;
    background: #ffc30e;
