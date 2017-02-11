@@ -63,14 +63,9 @@ label,input,textarea,select {
   margin-top:5px;
 }
 
-#forms .row #_id {
-  margin-top: 1em;
-}
-
 #forms .row label:#_id {
   margin-top: 1.2em;
 }
-
 
 #menu .row {
   text-align: right;
