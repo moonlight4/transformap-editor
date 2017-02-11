@@ -78,7 +78,7 @@ legend {
   font-size: 1.5em;
 }
 
-label for #_id {
+label #_id {
   margin-top:1em !important;
 }
 
