@@ -94,7 +94,8 @@ label,input,textarea,select {
 #newbutton,
 #resetbutton,
 #help {
-  line-height:1.7em;
+  margin-bottom: 1em;
+  margin-right: 1em;
 }
 
 #newbutton {
