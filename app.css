@@ -102,6 +102,10 @@ label,input,textarea,select {
   text-align: right;
 }
 
+#id {
+  line-height: 2em;
+}
+
 #newbutton {
    border: 1px solid #1f3050;
    background: #ffc30e;
