@@ -102,8 +102,9 @@ label,input,textarea,select {
   text-align: right;
 }
 
-#id {
-  line-height: 2em;
+#id,
+#_id {
+  line-height: 4em;
 }
 
 #newbutton {
