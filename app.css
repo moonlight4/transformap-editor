@@ -60,7 +60,7 @@ label,input,textarea,select {
   margin-right:10px;
 }
 #forms .row label:first-child {
-  margin-top:5px;
+  margin-top:1em;
 }
 
 #forms .row label:after {
@@ -100,11 +100,6 @@ label,input,textarea,select {
 
 #help {
   text-align: right;
-}
-
-#id,
-#_id {
-  margin-top: 2em;
 }
 
 #newbutton {
