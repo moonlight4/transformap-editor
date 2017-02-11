@@ -64,7 +64,8 @@ label,input,textarea,select {
 }
 
 #menu .row {
-  text-align: center;
+  text-align: right;
+  margin-top: 1em;
 }
 
 fieldset {
@@ -78,7 +79,7 @@ legend {
   font-size: 1.5em;
 }
 
-#_id .row {
+#id .row {
   margin-top:1em !important;
 }
 
@@ -115,10 +116,6 @@ legend {
 #help {
   margin-bottom: 1em;
   margin-right: 1em;
-}
-
-#help {
-  text-align: right;
 }
 
 #newbutton {
