@@ -60,11 +60,12 @@ label,input,textarea,select {
   margin-right:10px;
 }
 #forms .row label:first-child {
-  margin-top:1em;
+  margin-top:5px;
 }
 
-#_id {
-  margin-top:1em;
+#_id,
+#id {
+  margin-top:1em !important;
 }
 
 #forms .row label:after {
