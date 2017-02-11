@@ -56,7 +56,7 @@ label,input,textarea,select {
   display:block;
   float:left;
   min-width:15em;
-  text-align:left;
+  text-align:right;
   margin-right:10px;
 }
 #forms .row label:first-child {
