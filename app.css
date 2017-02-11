@@ -63,7 +63,7 @@ label,input,textarea,select {
   margin-top:5px;
 }
 
-.fieldset {
+fieldset {
   border-radius: 10px;
 }
 
