@@ -63,6 +63,10 @@ label,input,textarea,select {
   margin-top:5px;
 }
 
+#menu .row {
+  text-align: center;
+}
+
 fieldset {
   border-radius: 10px;
 }
